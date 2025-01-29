@@ -1,6 +1,6 @@
 ## Hi there! I'm Saadia •ᴗ•
 
-I’m a computer science student focused on solving problems and driving innovation through meaningful, real-world solutions. Currently, I’m working on full-stack development, building projects that make an impact and constantly expanding my skills to tackle new challenges in tech!
+I’m a computer science student focused on solving problems and driving innovation through meaningful, real-world solutions. Currently, I’m working on full-stack development, building projects that make an impact and constantly expanding my skills to tackle new challenges in tech! ![Icon](https://64.media.tumblr.com/d11968d671a74f56860c6d3e58a9cf5d/tumblr_msza0zRdR01shl6lbo1_500.gif)
 
 ### **Languages, Tools, and Frameworks**
 
