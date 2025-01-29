@@ -1,6 +1,10 @@
-## Hi there! I'm Saadia •ᴗ•
+<p align="center">
+  ## Hi there! I'm Saadia •ᴗ•
+</p>
 
 I’m a computer science student focused on solving problems and driving innovation through meaningful, real-world solutions. Currently, I’m working on full-stack development, building projects that make an impact and constantly expanding my skills to tackle new challenges in tech!
+
+### **Languages, Tools, and Frameworks**
 
 <!--
 **SaadiaM1346/SaadiaM1346** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
