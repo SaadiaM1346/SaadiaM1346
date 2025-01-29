@@ -3,7 +3,7 @@
 <div style="display: flex; flex-wrap: wrap;">
   <br>
   <img src="totoro!.gif" alt="gif" width="450" height="196" style="padding-right: 10px;" align="left"/>
-  <p style="padding-left: 400px; line-height: 2;" ><br>I’m a computer science student focused on solving<br>problems and driving innovation through meaningful, real-world<br>solutions. Currently, I’m working on full-stack development,<br>building projects that make an impact and constantly expanding<br>my skills to tackle new challenges in tech!<br><br></p>
+  <p style="padding-left: 400px; line-height: 2;" ><br>I’m a computer science student focused on solving<br>problems and driving innovation through meaningful,<br>real-world solutions. Currently, I’m working on full-stack<br>development, building projects that make an impact<br>and constantly expanding my skills to tackle new<br>challenges in tech!<br><br></p>
   <br>
 </div>
 
