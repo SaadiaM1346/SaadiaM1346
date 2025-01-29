@@ -1,6 +1,4 @@
-<p align="center">
-  ## Hi there! I'm Saadia •ᴗ•
-</p>
+## Hi there! I'm Saadia •ᴗ•
 
 I’m a computer science student focused on solving problems and driving innovation through meaningful, real-world solutions. Currently, I’m working on full-stack development, building projects that make an impact and constantly expanding my skills to tackle new challenges in tech!
 
