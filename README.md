@@ -1,13 +1,19 @@
 <h1 align="center">Hi there! I'm Saadia •ᴗ•</h1>
 
-<div style="display: flex; flex-wrap: wrap; align-items: center;">
-  <img src="toto.gif" alt="gif" width="130" height="130" style="padding-right: 10px;" align="right"/>
-  <p style="padding-left: 10px;">I’m a computer science student focused on solving problems and driving<br>innovation through meaningful, real-world solutions. Currently, I’m working on<br>full-stack development, building projects that make an impact and constantly<br>expanding my skills to tackle new challenges in tech!</p>
+<div style="display: flex; flex-wrap: wrap;">
+  <br>
+  <img src="totoro!.gif" alt="gif" width="450" height="196" style="padding-right: 10px;" align="left"/>
+  <p style="padding-left: 400px; line-height: 2;" ><br>I’m a computer science student focused on solving<br>problems and driving innovation through meaningful, real-world<br>solutions. Currently, I’m working on full-stack development,<br>building projects that make an impact and constantly expanding<br>my skills to tackle new challenges in tech!<br><br></p>
+  <br>
 </div>
 
 
-<h2 align="left">Languages, Tools, and Frameworks</h2>
+<h2 align="left">✧ Languages, Tools, and Frameworks</h2>
 
+<p style="padding-left: 20px;">
+  <strong>Languages:</strong> Python, JavaScript, Java, C#, C, Elm, Haskell, HTML, CSS, PostgreSQL<br>
+  <strong>Developer Tools and Frameworks:</strong> VS Code, Unity, Git/GitHub, IntelliJ, PyCharm, Jupyter, MongoDB, Ngrok, IHP, ReactJS, ThreeJS, NodeJS, ExpressJS, IBM Db2, Qiskit
+</p>
 <!--
 **SaadiaM1346/SaadiaM1346** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
