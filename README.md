@@ -1,8 +1,11 @@
-## Hi there! I'm Saadia •ᴗ•
+<h1 align="center">Hi there! I'm Saadia •ᴗ•</h1>
 
-I’m a computer science student focused on solving problems and driving innovation through meaningful, real-world solutions. Currently, I’m working on full-stack development, building projects that make an impact and constantly expanding my skills to tackle new challenges in tech! ![Icon](https://64.media.tumblr.com/d11968d671a74f56860c6d3e58a9cf5d/tumblr_msza0zRdR01shl6lbo1_500.gif)
+<div style="display: flex; align-items: center;">
+  <img align="right" src="toto.gif" alt="gif" width="130" height="130"/>
+  <p>I’m a computer science student focused on solving problems and driving innovation through meaningful, real-world solutions. Currently, I’m working on full-stack development, building projects that make an impact and constantly expanding my skills to tackle new challenges in tech!</p>
+</div>
 
-### **Languages, Tools, and Frameworks**
+<h2 align="left">Languages, Tools, and Frameworks</h2>
 
 <!--
 **SaadiaM1346/SaadiaM1346** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
