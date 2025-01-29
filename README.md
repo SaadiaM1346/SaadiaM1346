@@ -1,9 +1,10 @@
 <h1 align="center">Hi there! I'm Saadia •ᴗ•</h1>
 
-<div style="display: flex; align-items: center;">
-  <img align="right" src="toto.gif" alt="gif" width="130" height="130"/>
-  <p>I’m a computer science student focused on solving problems and driving innovation through meaningful, real-world solutions. Currently, I’m working on full-stack development, building projects that make an impact and constantly expanding my skills to tackle new challenges in tech!</p>
+<div style="display: flex; flex-wrap: wrap; align-items: center;">
+  <img src="toto.gif" alt="gif" width="130" height="130" style="padding-right: 10px;" align="right"/>
+  <p style="padding-left: 10px;">I’m a computer science student focused on solving problems and driving<br>innovation through meaningful, real-world solutions. Currently, I’m working on<br>full-stack development, building projects that make an impact and constantly<br>expanding my skills to tackle new challenges in tech!</p>
 </div>
+
 
 <h2 align="left">Languages, Tools, and Frameworks</h2>
 
